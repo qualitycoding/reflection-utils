@@ -1,4 +1,4 @@
-package uk.co.qualitycode.reflectionutils;
+package uk.co.qualitycoding.reflectionutils;
 
 import io.vavr.control.Try;
 

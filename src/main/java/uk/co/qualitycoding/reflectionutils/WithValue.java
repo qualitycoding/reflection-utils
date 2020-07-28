@@ -1,4 +1,4 @@
-package uk.co.qualitycode.reflectionutils;
+package uk.co.qualitycoding.reflectionutils;
 
 public interface WithValue<A,B> {
     B withValue(A a, final Class<A> aClass);
